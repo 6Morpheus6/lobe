@@ -15,8 +15,8 @@ module.exports = {
         },
         path: "app",
         message: [
-          "pnpm install",
-          "pnpm run build"
+          "npm install",
+          "npm run build"
         ],
       }
     }, {
